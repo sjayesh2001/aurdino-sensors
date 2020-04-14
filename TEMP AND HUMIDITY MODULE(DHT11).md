@@ -18,7 +18,7 @@ In DHT11 sensor there are four pins vcc,gnd,data(signal),NC while on the other h
 
 In aurdino VCC,gnd,data pins of module are connected to +5v,gnd,any analog pin respectively of aurdino.
 
-![pin connection](/images/DHT11 pin connection.png)
+![pin connection](/images1/DHT11 pin connection.png)
 
 
 
