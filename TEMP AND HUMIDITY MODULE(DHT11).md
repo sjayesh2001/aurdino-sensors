@@ -5,7 +5,7 @@ The sensor can measure temperature from 0°C to 50°C and humidity from 20% to 9
 
 ### PIN DIAGRAM
 
-![DHT11](/images/DHT11–Temperature-Sensor-Pinout.jpg)
+![DHT11](/images1/DHT11–Temperature-Sensor-Pinout.jpg)
 
 There are two DHT11 sensors:-
 
